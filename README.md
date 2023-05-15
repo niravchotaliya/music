@@ -1,77 +1,41 @@
-# Hi, I'm Kabir! 👋
+# **IMPORTANT**
 
-I'm a Discord Bot Developer and here is mine Discord Music Bot
+**Make Sure You Give Credit.. Thank You**
 
-# Advance Discord Music Bot
+[Join my Support Server](https://discord.gg/tVWrU5PWZV)
 
-a discord music bot with many commands , buttons , 24/7 , autoresume ,etc
+## LavaLink Server
 
-## **Installation | How to use the Bot**
+- Lavalink:
+- Host: lava.sudhan.tech
+- Port: 1234
+- Password: CodingWithSudhan
 
-**1.** Install Latest LTS [NodeJS](https://nodejs.org/en/)
+## HOW TO SELFHOSt
 
-**2.** Download this repo and unzip it | or git clone it
+- download `nodejs` v12 or higher, and `ffmpeg`
 
-**3.** Fill in everything in **`settings/config.js`**
+- install all dependeces with `npm install`
 
-### _Modify - config.js_
+- start your Bot with `node index.js`
 
-```javascript
-{
-  TOKEN: "BOT_TOKEN",
-  PREFIX: "BOT_PREFIX",
-  mongodb : "MONGO_URL"
-}
-```
+Enjoy ;)
 
-### _Modify - .env_
+[REPLIT](https://tii.ai/H5zW6)
 
-_*Rename `.env.example` to `.env.` and configure it*_
+*Yes It Works on REPLIT*
 
-```env
-TOKEN=
-MONGO_URL=
-PREFIX=
-GUILD_ID=
-```
+**Discord Server:**
+[https://discord.gg/tVWrU5PWZV](https://discord.gg/tVWrU5PWZV)
 
-**4.** Now Let's Update Node Version. copy and paste in shell **`npm i --save-dev node@latest && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH`**
+## Special 
+This is Bot Have 24/7 Free Service
+For Info CheckOut My Video
+\` Coming Soon \`
 
-**5.** after Fill everything in config Type in shall **`npm install`**
+## Credits
 
-**6.** now we need to install to additional packages **.** <br/>
+[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea, I adopted that [@Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
 
-1.  `npm install @discordjs/opus` - for better audio quality **.** <br/>
-2.  `npm install zlib-sync@latest` - for WebSocket data compression and inflation **.** <br/>
-3.  `npm install erlpack@latest` - for significantly faster WebSocket **.** <br/>
-
-**7.** start the bot with **`node index.js`**
-
-## Music Bot Features
-
-- Easy to use Music Bot
-- Support Youtube , Spotify , Soundcloud , etc 700+ websites
-- Slash commands support
-- Dashboard support
-- Message commands support
-- Stable & up to date with discord.js v14
-- Support 24/7 in voice channel
-- Support autoresume system
-- Support music request channel system
-- Support more filters
-- Support dj system
-- Work on replit and others vps
-
-## Music Bot Dashboard Setup
-
-[Click Here](https://github.com/kabirsingh2004/JUGNU-Dashboard/blob/main/README.md)
-
-## Feedback
-
-If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/FuKfAREn9f)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-# Thanks For Using Music bot Please Give a Star and please give me credit
+Thanks For Tomato6966
+Check Out Tomato6966 Gtihub Repo
